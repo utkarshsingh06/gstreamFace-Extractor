@@ -1,4 +1,4 @@
-ASSIGNMENT WOBOT.ai
+
 
 PART-1
 Create a simple gstreamer pipeline and run using gst-launch command line tool to read the mp4 video file, scale down the input to 640x640 resolution and write JPEG encoded frames.
