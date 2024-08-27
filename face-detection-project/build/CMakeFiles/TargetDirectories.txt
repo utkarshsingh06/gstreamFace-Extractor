@@ -1,0 +1,3 @@
+/home/bladerunner/face-detection-project/build/CMakeFiles/face_cropper.dir
+/home/bladerunner/face-detection-project/build/CMakeFiles/edit_cache.dir
+/home/bladerunner/face-detection-project/build/CMakeFiles/rebuild_cache.dir
